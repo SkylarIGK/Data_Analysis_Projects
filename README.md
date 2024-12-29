@@ -32,6 +32,6 @@ Big Query was used in data cleaning process too. Here is the link of all queries
 ### Analyze and Share
 I use Power BI for data visualization. [Visualizations](Visualizations.md)
 ### Act
-These are my recommendations based on my analysis insights. [Recommendations](Recommendation.md)
+These are my recommendations based on my analysis insights. [Recommendation](Recommendation.md)
 
 
