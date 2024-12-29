@@ -6,8 +6,8 @@ Bellabeat, founded in 2013 by Urška Sršen and Sando Mur, creates health-focuse
 ## Quick Links
 - Data Source : [FitBit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit) (accessed on 03/11/2024)
 - Data Visualization : [Visualizations](Visualizations.md)
-- SQL Queries : 
-- Recommendations : 
+- SQL Queries : [SQL Queries](SQL-Queries.sql)
+- Recommendations : [Recommendation](Recommendation.md)
 ## Scenario
 I’m assuming to be a junior data analyst on Bellabeat’s marketing team, I’m working with a company specializing in health-focused smart devices for women. Bellabeat’s cofounder and Chief Creative Officer, Urška Sršen, believes that analyzing data from our fitness devices can reveal valuable growth opportunities, helping Bellabeat expand its impact in the global market. I’ve been assigned to analyze data for one specific product, aiming to understand how customers are currently using our devices. My findings will support our marketing strategy and guide future growth. 
 ## Business Task
@@ -28,10 +28,10 @@ BigQuery was selected for data cleaning and exploration due to the large volume 
 ### Data Exploration
 Before cleaning the data, I take the time to thoroughly understand the dataset that I will be analyzing by using BigQuery.
 ### Data Cleaning
-Big Query was used in data cleaning process too. Here is the link of all queries that I used in data exploration and data cleaning process. [SQL Queries](...)
+Big Query was used in data cleaning process too. Here is the link of all queries that I used in data exploration and data cleaning process. [SQL Queries](SQL-Queries.sql)
 ### Analyze and Share
 I use Power BI for data visualization. [Visualizations](Visualizations.md)
 ### Act
-These are my recommendations based on my analysis insights. [Recommendations](..)
+These are my recommendations based on my analysis insights. [Recommendations](Recommendation.md)
 
 
