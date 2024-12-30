@@ -30,7 +30,7 @@ Before cleaning the data, I take the time to thoroughly understand the dataset t
 ### Data Cleaning
 Big Query was used in data cleaning process too. Here is the link of all queries that I used in data exploration and data cleaning process. [SQL Queries](SQL-Queries.sql)
 ### Analyze and Share
-I use Power BI for data visualization. [Visualizations](Visualizations.md)
+I used Power BI for data visualization. [Visualizations](Visualizations.md)
 ### Act
 These are my recommendations based on my analysis insights. [Recommendation](Recommendation.md)
 
