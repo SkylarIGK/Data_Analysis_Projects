@@ -23,9 +23,9 @@ Users logged their activity data more frequently starting in early April.
 
 
 ![Count_Id_sleepdaylog](https://github.com/user-attachments/assets/520d9c74-d0ce-485a-9c5d-adce823810fe)
-1bbe)
 Fewer users logged their sleep data compared to activity data.
 
 
 ![Count_Id_weightlog](https://github.com/user-attachments/assets/6664f6ff-cebc-47bb-a140-14632aa9a434)
+
 Of the 35 user IDs, only one user logged their weight 14 times. Eight users logged their weight once, while 24 users did not log their weight at all.
