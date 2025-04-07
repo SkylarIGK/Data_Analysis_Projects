@@ -5,7 +5,6 @@ This is the Students' Perceptions of AI in Education data analysis. In this proj
 This dataset contains the results of a survey conducted on undergraduate students enrolled in the 2nd and 3rd year of study at the Faculty of Cybernetics, Statistics and Economic Informatics. The survey was conducted online and distributed through social media groups. The aim of the survey was to gather insights into students' perceptions of the role of artificial intelligence in education.
 ## Quick Links
 - Data Source : [Students' Perceptions of AI in Education Data](https://www.kaggle.com/datasets/gianinamariapetrascu/survey-on-students-perceptions-of-ai-in-education) (accessed on 03/04/2025)
-- Data Visualization : [Visualizations with Explanations](Visualizations.md)
 - Python Code : [Python Code](DAwithPython(StudentAI).ipynb)
 
 ## Analysis Questions
@@ -19,9 +18,7 @@ These questions will guide my analysis:
 Data Source: [Students' Perceptions of AI in Education Data](https://www.kaggle.com/datasets/gianinamariapetrascu/survey-on-students-perceptions-of-ai-in-education) (accessed on 03/04/2025)
 ## Process
 Python was selected for data cleaning, exploration and data visualization.
-### Analysis
+### Analysis and Visualizations
 I used Python for data analysis. [Python Code](DAwithPython(StudentAI).ipynb)
-### Visualization and Share
-I used Python for data visualization and here is the Visualization with explanations. [Visualizations](Visualizations.md)
 
 
