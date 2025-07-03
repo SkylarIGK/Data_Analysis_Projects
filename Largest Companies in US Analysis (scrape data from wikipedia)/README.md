@@ -5,7 +5,7 @@ This is a U.S. Top 100 Companies Data Analysis project. In this case study, I pe
 This dataset contains information on the top 100 largest companies in the United States, including details such as company name, industry, headquarters location, number of employees, revenue in USD, and revenue growth. The data was collected through web scraping and provides a snapshot of major U.S. corporations across various industries. The purpose of this project is to explore trends in company size, industry dominance, growth patterns, and revenue efficiency to generate insights.
 ## Quick Links
 - Wikipedia link : [Largest Companies in US link](https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_States_by_revenue)
-- Data Source : [Largest Companies in US](Data.md) (scraped from wikipedia on 17/06/2025)
+- Data Source : [Largest Companies in US](largest_companies_US.csv) (scraped from wikipedia on 17/06/2025)
 - Web Scraping code : [Code]()
 - Data Visualization : [Visualizations](Visualizations.md)
 - SQL Queries : [SQL Queries](SQL-Queries.sql)
