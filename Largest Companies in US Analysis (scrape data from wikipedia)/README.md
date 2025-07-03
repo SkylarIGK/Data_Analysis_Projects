@@ -6,7 +6,7 @@ This dataset contains information on the top 100 largest companies in the United
 ## Quick Links
 - Wikipedia link : [Largest Companies in US link](https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_States_by_revenue)
 - Data Source : [Largest Companies in US](largest_companies_US.csv) (scraped from wikipedia on 17/06/2025)
-- Web Scraping code : [Code](LargestCompaniesinUS_Scrape.ipynb)
+- Web Scraping code : [Code](WebscrapingCode.py)
 - Data Visualization : [Visualizations](Visualizations.md)
 - SQL Queries : [SQL Queries](SQL-Queries.sql)
 ## Analysis Questions
