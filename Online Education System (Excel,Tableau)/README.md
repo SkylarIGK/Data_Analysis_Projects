@@ -6,7 +6,7 @@ The COVID-19 pandemic significantly disrupted traditional education systems and 
 
 This dataset was collected to analyze students’ experiences with online education and to evaluate their satisfaction and performance during this period. The data includes demographic information, study habits, access to technology, and self-reported academic performance both before and during online learning. With 23 columns and over 1,000 records, the dataset provides a comprehensive view of how different factors influence students’ online education experiences and outcomes.
 ## Quick Links
-- Data Source : [Online Education System-Review data]([largest_companies_US.csv](https://www.kaggle.com/datasets/sujaradha/online-education-system-review)) (accessed on 24/12/2025)
+- Data Source : [Online Education System-Review data](largest_companies_US.csv](https://www.kaggle.com/datasets/sujaradha/online-education-system-review) (accessed on 24/12/2025)
 - Data Visualization : [Visualizations](Visualizations.md)
 - Recommendations : [Recommendation](Recommendation.md)
 ## Analysis Questions
